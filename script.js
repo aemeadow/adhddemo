@@ -1,7 +1,4 @@
-
-
-
-    function startTime() {
+function startTime() {
         var today = new Date();
         var h = today.getHours();
         var m = today.getMinutes();
@@ -182,4 +179,3 @@ $(document).ready(function () {
         });
 
     });
-
